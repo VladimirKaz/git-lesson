@@ -1,0 +1,19 @@
+.header {
+  padding: 50px 20px;
+  color: #333333;
+  background-color: #f6f6f6;
+  font-size: 32px;
+}
+
+.content {
+  padding: 50px 30px;
+  font-size: 42px;
+  background-color: #c5c5c5;
+}
+
+.footer {
+  padding: 50px;
+  font-size: 52px;
+  color: #f6f6f6;
+  background-color: #333333;
+}
